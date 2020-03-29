@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size:100%;
+    color:#40514E;
+    
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size:5.625rem;
+    color:#53B49F;
+    font-family:'Sacramento', cursive;
+
+ }
+h2{
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.18rem;
+    color:#66BFBF;
+    }
+h3{
+    font-family:"Montserrat",sans-serif; 
+    color:#11999E;
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top:100px ;
+
+}
+.middle-container{
+    position: relative;
+    padding-bottom: 120px;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 50px;
+    margin-bottom: 0;
+    position: relative;
+    text-align: center;
+}
+.bottom-cloud{
+    position: absolute;
+    left:600px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right:600px;
+    top:50px;
+    
+}
+.profilepict{
+    padding:30px;
+    border-radius: 100%;
+    height: 220px;
+    
+}
+.skates{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.painting{
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.guitar{
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.programing{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+a{
+    color:#11999E ;
+    text-decoration: none;
+}
+a:hover{
+    color:#252a34;
+    text-decoration:none;
+}
+.skill-row{
+    width: 40%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    }
+    hr{
+        width: 5%;
+        border-style: dotted none none;
+        border-color: #EAF6F6;
+        border-width: 10px;
+        height:0px;
+    }
+    .footer-link{
+        line-height: 2;
+        padding-left: 40px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .btn{
+        background-color: #53B49F;
+        background-image: url(b2.png);
+        border-radius: 10px;
+        position: relative;
+        padding:10px 20px 10px 20px;
+        font-size: 20px;
+        border-style: solid 10px;
+        border-color: #252a34;
+        font-weight: bold;
+        box-shadow: 5px 5px 5px 0px;
+        text-shadow: 1px 5px 5px 10px;
+        cursor: pointer;
+        border:solid 1px #11999E;
+    }
