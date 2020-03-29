@@ -124,3 +124,7 @@ a:hover{
         cursor: pointer;
         border:solid 1px #11999E;
     }
+p{
+ font-size: 1.2rem;
+ line-height: 2;
+}
