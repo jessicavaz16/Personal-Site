@@ -91,7 +91,7 @@ a:hover{
     text-decoration:none;
 }
 .skill-row{
-    width: 50%;
+    width: 70%;
     margin:100px auto 100px auto;
     text-align: left;
     line-height: 2;
@@ -125,6 +125,6 @@ a:hover{
         border:solid 1px #11999E;
     }
 p{
- font-size: 1rem;
+ font-size: 0.8rem;
  line-height: 2;
 }
