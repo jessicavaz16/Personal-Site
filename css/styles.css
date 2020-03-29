@@ -31,6 +31,7 @@ h3{
 .middle-container{
     position: relative;
     padding-bottom: 120px;
+    line-height: 2;
     
 }
 .bottom-container{
@@ -106,7 +107,7 @@ a:hover{
     .footer-link{
         line-height: 2;
         padding-left: 40px;
-        font-size: 20px;
+        font-size: 40px;
         text-align: center;
     }
     .btn{
@@ -124,6 +125,3 @@ a:hover{
         cursor: pointer;
         border:solid 1px #11999E;
     }
-p{
- line-height: 2;
-}
